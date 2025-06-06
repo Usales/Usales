@@ -12,7 +12,7 @@ PL/SQL, PostgreSQL
 HTML5, CSS, javascript, React.js
 
 🕹 Outras:
-Git, GitHub
+GitHub
 
 🎆 Experiências com:
 Python, Angular, Tailwind e MongoDB.
