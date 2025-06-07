@@ -9,7 +9,7 @@ Java, JavaScript e Typescript
 PL/SQL, PostgreSQL
 
 🎨 Front-end:
-HTML5, CSS, javascript, React.js
+HTML5, CSS, javascript,Typescript, React.js
 
 🕹 Outras:
 GitHub
