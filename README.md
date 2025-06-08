@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Gabriel Henriques Sales
 
-📚 Cursando - Engenharia de Software
+📚 Cursando - Engenharia de Software 7 7° Período
 
 🚀 Linguagens:
 Java, JavaScript e Typescript
