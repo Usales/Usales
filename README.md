@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Gabriel Henriques Sales
 
-📚 Cursando - Engenharia de Software 7° Período
+📚 Cursando - Engenharia de Software 8° Período
 
 🚀 Linguagens:
 Java, JavaScript e Typescript
@@ -9,13 +9,13 @@ Java, JavaScript e Typescript
 PL/SQL, PostgreSQL
 
 🎨 Front-end:
-HTML5, CSS, javascript,Typescript, React.js
+HTML5, CSS3, javascript, Typescript, React.js
 
 🕹 Outras:
-GitHub
+GitHub, Git
 
 🎆 Experiências com:
-Python, Angular, Tailwind e MongoDB.
+Python, Node, Angular, Tailwind e MongoDB.
 
 [![Usales GitHub stats](https://github-readme-stats.vercel.app/api?username=Usales&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Usales)
 
