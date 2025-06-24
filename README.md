@@ -15,7 +15,7 @@ HTML5, CSS3, javascript, Typescript, React.js
 GitHub, Git, Vite.
 
 🎆 Experiências com:
-Python, Node, Angular, Tailwind e MongoDB.
+Python, Angular, Tailwind e MongoDB.
 
 [![Usales GitHub stats](https://github-readme-stats.vercel.app/api?username=Usales&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Usales)
 
