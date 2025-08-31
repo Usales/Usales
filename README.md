@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou o Gabriel Henriques Sales
 
-🎓 **Engenheiro de Software**
+🎓 **Engenheiro de Software | Desenvolvedor Fullstack | Suporte de TI & Helpdesk
+**
 
 💻 **Desenvolvedor Fullstack** com foco em **Front-End**
 
