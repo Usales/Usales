@@ -1,8 +1,9 @@
 # 👋 Gabriel Henriques Sales
 
-🚀 **Engenheiro de Software**  
-💻 **Desenvolvedor Fullstack com foco em Front-End moderno e Back-End robusto**  
-🏢 Atuação prática com **sistemas web, APIs, automação de processos e aplicações em produção**
+
+🎓 **Engenheiro de Software | Desenvolvedor Fullstack | Suporte de TI & Helpdesk**
+
+💻 **Desenvolvedor Fullstack** com foco em **Front-End**
 
 ---
 
