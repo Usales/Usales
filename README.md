@@ -1,8 +1,23 @@
-# 👋 Olá, eu sou o Gabriel Henriques Sales !
+# 👋 Gabriel Henriques Sales
 
-🎓 **Engenheiro de Software | Desenvolvedor Fullstack | Suporte de TI & Helpdesk**
+🚀 **Engenheiro de Software**  
+💻 **Desenvolvedor Fullstack com foco em Front-End moderno e Back-End robusto**  
+🏢 Atuação prática com **sistemas web, APIs, automação de processos e aplicações em produção**
 
-💻 **Desenvolvedor Fullstack** com foco em **Front-End**
+---
+
+## Sobre mim
+
+Sou engenheiro de software com experiência no desenvolvimento, manutenção e suporte de **sistemas em ambiente produtivo**.  
+Atuo desde a interface até o banco de dados, com foco em **código, regras de negócio e impacto direto no negócio**.
+
+Conhecimentos em:
+- Sistemas comerciais (PDV / ERP)
+- Integrações via API
+- Análise e correção de falhas em sistemas críticos
+- Desenvolvimento web moderno e escalável
+
+---
 
 <picture>
   <source
