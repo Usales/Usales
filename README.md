@@ -8,14 +8,14 @@
 
 ## Sobre mim
 
-Sou engenheiro de software com experiência no desenvolvimento, manutenção e suporte de **sistemas em ambiente produtivo**.  
+Sou engenheiro de software com experiência em desenvolvimento, manutenção e suporte de **sistemas em ambiente produtivo**.  
 Atuo desde a interface até o banco de dados, com foco em **código, regras de negócio e impacto direto no negócio**.
 
 Conhecimentos em:
-- Sistemas comerciais (PDV / ERP)
+- Sistemas comerciais (PDV / ERP / CRM)
 - Integrações via API
-- Análise e correção de falhas em sistemas críticos
-- Desenvolvimento web moderno e escalável
+- Análises, orientações e correções de falhas em sistemas 
+- Desenvolvimento web escalável
 
 ---
 <picture>
