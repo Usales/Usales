@@ -18,7 +18,6 @@ Conhecimentos em:
 - Desenvolvimento web moderno e escalável
 
 ---
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Usales&show_icons=true&theme=dark"
@@ -30,8 +29,6 @@ Conhecimentos em:
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Usales&show_icons=true" />
 </picture>
-
-
 ----
 
 
