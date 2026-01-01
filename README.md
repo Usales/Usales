@@ -5,8 +5,6 @@
 
 💻 **Desenvolvedor Fullstack** com foco em **Front-End**
 
----
-
 ## Sobre mim
 
 Sou engenheiro de software com experiência em desenvolvimento, manutenção e suporte de **sistemas em ambiente produtivo**.  
@@ -18,7 +16,6 @@ Conhecimentos em:
 - Análises, orientações e correções de falhas em sistemas 
 - Desenvolvimento web escalável
 
----
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Usales&show_icons=true&theme=dark"
