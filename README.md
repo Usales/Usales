@@ -1,7 +1,7 @@
 # 👋 Gabriel Henriques Sales
 
 
-🎓 **Engenheiro de Software | Desenvolvedor Fullstack | Suporte de TI & Helpdesk**
+🎓 **Engenheiro de Software | React | Typescript | Java | SpringBoot | Git | MySQL | NodeJS | Analista de Suporte
 
 💻 **Desenvolvedor Fullstack** com foco em **Front-End**
 
